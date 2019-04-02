@@ -1,2 +1,3 @@
 # april
-web development journal, my second month
+web development journal, my second month.
+
