@@ -4,6 +4,10 @@
     padding: 0px;
 }
 
+body {
+    background-color: bisque;
+}
+
 #logo{
     font:6em sans-serif;
     line-height:  96px;
